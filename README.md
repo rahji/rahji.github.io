@@ -1,4 +1,4 @@
-# Rob Duarte Open Source Projects
+# Open Source Projects
 
 > A list of some of my open source software, hardware, and learning projects
 
@@ -10,6 +10,7 @@
   - [Extensions](#extensions)
   - [Networking](#networking)
 - [Games](#games)
+- [Other Video Tutorials](#other-video-tutorials)
 
 ## Electronics
 
@@ -58,3 +59,14 @@
 
 - [Bitsy Handout](https://github.com/rahji/bitsy-handout) - A one-page (two-sided) handout that can be used for a Bitsy workshop or class
 - [Bitsy Video Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv7cR7QG7IIu-nEMHiVQsGNM) - A playlist of video tutorials showing advanced Bitsy topics
+- [p5play Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6VlokNm1uWDunbrBk6YrMR) - A playlist of tutorials for the p5.js p5play game-making library
+- [Scratch Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv4Xn0gSAAZD1jlbPADfJeRE) - A playlist of old scratch tutorials
+
+## Other Video Tutorials
+
+- [Autodesk Fusion 360 Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv65VUZNfctWJuHtIvuLUmtE) - A playlist of my Fusion 360 tutorials
+- [Autodesk Eagle Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv4zWs14hAQxqpuK_5B-k7Uw)
+- [Processing Oldies but Goodies](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6RtPKM-xKdftWJW1cwj8oT) - Screen recordings of Processing lessons that I created long ago
+- [Quartz Composer Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6I09WU4FskH5G8ZaB54IN5) - A series of Quartz Composer tutorials for beginners
+- [p5js and Chataigne](https://youtu.be/UjUjzPPUXk0) - A video walkthrough of how Chataigne can be used with p5.js and WebSockets
+- 
