@@ -2,6 +2,8 @@
 
 > A list of some of my open source software, hardware, and learning projects
 
+## Contents
+
 - [Electronics](#electronics)
   - [Synth](#synth)
 - [Software](#software)
