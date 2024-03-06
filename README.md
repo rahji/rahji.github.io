@@ -69,4 +69,3 @@
 - [Processing Oldies but Goodies](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6RtPKM-xKdftWJW1cwj8oT) - Screen recordings of Processing lessons that I created long ago
 - [Quartz Composer Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6I09WU4FskH5G8ZaB54IN5) - A series of Quartz Composer tutorials for beginners
 - [p5js and Chataigne](https://youtu.be/UjUjzPPUXk0) - A video walkthrough of how Chataigne can be used with p5.js and WebSockets
-- 
