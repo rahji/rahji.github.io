@@ -34,6 +34,7 @@
 
 ### Utilities
 
+- [Greyscale](https://github.com/rahji/greyscale) - A cross-platform command line tool for interrogating greyscale images
 - [The Filenal Countdown](https://github.com/rahji/TheFilenalCountdown) - A Windows countdown timer that works well with OBS and other streaming software. Also here at the [OBS Studio Forum](https://obsproject.com/forum/resources/the-filenal-countdown.1056/)
 - [Scripts](https://github.com/rahji/scripts) - A collection of shell and perl scripts that are more or less handy
 - [Reset Windows User](https://gist.github.com/rahji/6b096f8a790c676b0f626ff4ac59fd79) - A Windows batch script that resets vscode, git, chrome, and firefox (written to help the [iHub](https://www.innovation.fsu.edu/))
