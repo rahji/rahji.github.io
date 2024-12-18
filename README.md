@@ -5,46 +5,52 @@
 ## Contents
 
 - [Electronics](#electronics)
+  - [PCBs](#pcbs)
   - [Synth](#synth)
+  - [Microcontrollers](#microcontrollers)
 - [Software](#software)
+  - [Graphics](#graphics)
   - [Utilities](#utilities)
-  - [Libraries](#libraries)
   - [Extensions](#extensions)
   - [Networking](#networking)
+  - [Text](#text)
 - [Games](#games)
 - [Other Video Tutorials](#other-video-tutorials)
 
 ## Electronics
 
+### PCBs
+
 - [Mic Preamp](https://github.com/rahji/micpreamp) - A microphone preamp that works well with piezo disc contact mics
-- [REX C100 PID Controller](https://youtu.be/tgVp4-Jlr8Q?si=RCWrXSr681_H7vNC) - A video describing modifications that can be made to a REX C100 PID controller
-- [PCB Milling](https://rahji.github.io/pcbmilling/) - A website describing how to make PCB prototypes using FlatCAM and the Carbide Nomad CNC mill 
+- [PCB Milling](https://rahji.github.io/pcbmilling/) - A website describing how to make PCB prototypes using FlatCAM and the Carbide Nomad CNC mill
+- [Black Lives Matter Eagle Library](https://github.com/rahji/blacklivesmatter-eagle-lib) - A library for Autodesk Eagle that allows engineers and designers of electronic objects to include a BLACK LIVES MATTER message on their PCBs
 
 ### Synth
 
-- [RJ45 Eurorack Bridge](https://github.com/rahji/rj45eurorackbridge) - A portable RJ45-to-Eurorack bridge that allows two modular synthesists to collaborate across a safe distance during the COVID-19 pandemic 
+- [RJ45 Eurorack Bridge](https://github.com/rahji/rj45eurorackbridge) - A portable RJ45-to-Eurorack bridge that allows two modular synthesists to collaborate across a safe distance during the COVID-19 pandemic
 - [Hora Pure Panel](https://github.com/rahji/pure_panel) - Eagle files to be used with OSHpark After Dark pcb service, for the Hora Pure alternative firmware for MTM Radio Music
-- [Eurorack Ears](https://github.com/rahji/eurorack-ears) - Models and drawings of Eurorack rail profiles and brackets 
+- [Eurorack Ears](https://github.com/rahji/eurorack-ears) - Models and drawings of Eurorack rail profiles and brackets
 - [Eurorack Karaoke Delay](https://www.youtube.com/watch?v=ysiBga27AOY) - YouTube tutorial showing how to adapt a cheap karaoke delay board for Eurorack
 - [Eurorack Passives](https://github.com/rahji/eurorack-passives) - Small PCBs for a variety of passive Eurorack non-modules
 
+### Microcontrollers
+
+- [NESpad](https://github.com/rahji/nespad) - The OG Arduino library for Nintendo and Super Nintendo game pads
+- [powersout](https://github.com/rahji/powersout) - Analyze power outage data from my Arduino datalogger
+- [makecode-cpx-docker](https://github.com/rahji/makecode-cpx-docker) - A Docker config for makecode.adafruit.com for their CPX boards
+
 ## Software
 
-- [Perl course](https://rahji.github.io/perlcourse/) - Course materials I created for perl courses I taught an entire lifetime ago
+### Graphics
+
+- [Greyscale](https://github.com/rahji/greyscale) - A cross-platform command line tool for interrogating greyscale images
+- [Jing SWF to MP4](https://gist.github.com/rahji/755330bfd36f361bbf7a3ec74f2ceef8) - A process for recovering videos from old Jing screen recordings
 
 ### Utilities
 
-- [Greyscale](https://github.com/rahji/greyscale) - A cross-platform command line tool for interrogating greyscale images
 - [The Filenal Countdown](https://github.com/rahji/TheFilenalCountdown) - A Windows countdown timer that works well with OBS and other streaming software. Also here at the [OBS Studio Forum](https://obsproject.com/forum/resources/the-filenal-countdown.1056/)
 - [Scripts](https://github.com/rahji/scripts) - A collection of shell and perl scripts that are more or less handy
 - [Reset Windows User](https://gist.github.com/rahji/6b096f8a790c676b0f626ff4ac59fd79) - A Windows batch script that resets vscode, git, chrome, and firefox (written to help the [iHub](https://www.innovation.fsu.edu/))
-- [Jing SWF to MP4](https://gist.github.com/rahji/755330bfd36f361bbf7a3ec74f2ceef8) - A process for recovering videos from old Jing screen recordings
-- [reviews](https://github.com/rahji/reviews) - A project to create PDFs of MFA review evaluations submitted by faculty via Qualtrics
-
-### Libraries
-
-- [Black Lives Matter Eagle Library](https://github.com/rahji/blacklivesmatter-eagle-lib) - A library for Autodesk Eagle that allows engineers and designers of electronic objects to include a BLACK LIVES MATTER message on their PCBs
-- [NESpad](https://github.com/rahji/nespad) - The OG Arduino library for Nintendo and Super Nintendo game pads
 - [rdqcutils](https://github.com/rahji/rdqcutils) - A collection of utility patches for Apple's Quartz Composer
 
 ### Extensions
@@ -58,6 +64,20 @@
 - [oscxyz](https://github.com/rahji/oscxyz) - An OSC-to-WebSockets bridge for accelerometer data. There's a separate repo for [client demos written in p5.js](https://github.com/rahji/oscxyz_clientdemos).
 - [oscdump](https://github.com/rahji/oscdump) - A simple command-line tool to receive and display OSC messages in the terminal
 
+### Teaching
+
+- [reviews](https://github.com/rahji/reviews) - A project to create PDFs of MFA review evaluations submitted by faculty via Qualtrics
+- [gradescale](https://github.com/rahji/gradescale) - A command-line tool for generating letter grade scales
+- [syllabuster](https://github.com/rahji/syllabuster) - A TUI for making the Grading section of my syllabi
+- [Perl course](https://rahji.github.io/perlcourse/) - Course materials I created for perl courses I taught an entire lifetime ago
+
+### Text
+
+- [wordsearch-cli](https://github.com/rahji/wordsearch-cli) - A command-line wordsearch puzzle generator that uses my Go wordsearch package
+- [bestblueyparty](https://github.com/rahji/bestblueyparty) - A human-readable kid-oriented random string generator
+- [speachy](https://github.com/rahji/speachy) - A command-line program for identifying words that match specific parts of speech tags
+- [wordsearch](https://github.com/rahji/wordsearch) - A Go package for making word search puzzles
+
 ## Games
 
 - [Bitsy Handout](https://github.com/rahji/bitsy-handout) - A one-page (two-sided) handout that can be used for a Bitsy workshop or class
@@ -67,6 +87,7 @@
 
 ## Other Video Tutorials
 
+- [REX C100 PID Controller](https://youtu.be/tgVp4-Jlr8Q?si=RCWrXSr681_H7vNC) - A video describing modifications that can be made to a REX C100 PID controller
 - [Autodesk Fusion 360 Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv65VUZNfctWJuHtIvuLUmtE) - A playlist of my Fusion 360 tutorials
 - [Autodesk Eagle Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv4zWs14hAQxqpuK_5B-k7Uw)
 - [Processing Oldies but Goodies](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6RtPKM-xKdftWJW1cwj8oT) - Screen recordings of Processing lessons that I created long ago
