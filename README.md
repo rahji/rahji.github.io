@@ -13,6 +13,7 @@
   - [Utilities](#utilities)
   - [Extensions](#extensions)
   - [Networking](#networking)
+  - [Teaching](#teaching)
   - [Text](#text)
 - [Games](#games)
 - [Other Video Tutorials](#other-video-tutorials)
