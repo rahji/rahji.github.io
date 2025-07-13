@@ -9,22 +9,30 @@
   - [Synth](#synth)
   - [Microcontrollers](#microcontrollers)
 - [Software](#software)
+  - [Programming](#programming) 
   - [Graphics](#graphics)
+  - [Terminal](#terminal)
   - [Utilities](#utilities)
   - [Extensions](#extensions)
   - [Networking](#networking)
   - [Teaching](#teaching)
-  - [Text](#text)
+  - [Text/Language](#text-and-language)
 - [Games](#games)
 - [Other Video Tutorials](#other-video-tutorials)
 
 ## Electronics
+
+### Simulators
+
+- [shiftregister](https://github.com/rahji/shiftregister) - 74HC595 (serial in, parallel out) shift register simulator 
+- [bits](https://github.com/rahji/bits) - A very simple interactive webpage that can be used to demonstrate how bits, bytes, and decimal numbers work 
 
 ### PCBs
 
 - [Mic Preamp](https://github.com/rahji/micpreamp) - A microphone preamp that works well with piezo disc contact mics
 - [PCB Milling](https://rahji.github.io/pcbmilling/) - A website describing how to make PCB prototypes using FlatCAM and the Carbide Nomad CNC mill
 - [Black Lives Matter Eagle Library](https://github.com/rahji/blacklivesmatter-eagle-lib) - A library for Autodesk Eagle that allows engineers and designers of electronic objects to include a BLACK LIVES MATTER message on their PCBs
+- [shiftregister](https://github.com/rahji/shiftregister) - 74HC595 (serial in, parallel out) shift register simulator 
 
 ### Synth
 
@@ -42,10 +50,19 @@
 
 ## Software
 
+### Programming
+
+- [JSizzle](https://github.com/rahji/jsizzle) - A self-contained JavaScript playground written in Go
+
 ### Graphics
 
 - [Greyscale](https://github.com/rahji/greyscale) - A cross-platform command line tool for interrogating greyscale images
 - [Jing SWF to MP4](https://gist.github.com/rahji/755330bfd36f361bbf7a3ec74f2ceef8) - A process for recovering videos from old Jing screen recordings
+
+### Terminal
+
+- [helix-ghost](https://github.com/rahji/helix-ghost) - A program that lets you use your favorite text editor to write in web browser text fields
+- [dotfiles](https://github.com/rahji/dotfiles) - My configuration files for helix, tmux, bat, etc.
 
 ### Utilities
 
@@ -53,6 +70,7 @@
 - [Scripts](https://github.com/rahji/scripts) - A collection of shell and perl scripts that are more or less handy
 - [Reset Windows User](https://gist.github.com/rahji/6b096f8a790c676b0f626ff4ac59fd79) - A Windows batch script that resets vscode, git, chrome, and firefox (written to help the [iHub](https://www.innovation.fsu.edu/))
 - [rdqcutils](https://github.com/rahji/rdqcutils) - A collection of utility patches for Apple's Quartz Composer
+- [packingslipper]](https://github.com/rahji/packingslipper] - A CLI for creating 2"x7" PDF packing slips from Shopify orders
 
 ### Extensions
 
@@ -71,13 +89,16 @@
 - [gradescale](https://github.com/rahji/gradescale) - A command-line tool for generating letter grade scales
 - [syllabuster](https://github.com/rahji/syllabuster) - A TUI for making the Grading section of my syllabi
 - [Perl course](https://rahji.github.io/perlcourse/) - Course materials I created for perl courses I taught an entire lifetime ago
+- [timeblocker](https://rahji.github.io/timeblocker/) - A command-line program for mapping out a schedule of meeting times
 
-### Text
+### Text and Language
 
 - [wordsearch-cli](https://github.com/rahji/wordsearch-cli) - A command-line wordsearch puzzle generator that uses my Go wordsearch package
 - [bestblueyparty](https://github.com/rahji/bestblueyparty) - A human-readable kid-oriented random string generator
 - [speachy](https://github.com/rahji/speachy) - A command-line program for identifying words that match specific parts of speech tags
 - [wordsearch](https://github.com/rahji/wordsearch) - A Go package for making word search puzzles
+- [lorem](https://github.com/rahji/lorem] - Generate lorem ipsum on the command-line
+- [sentimental](https://github.com/rahji/sentimental] - An OSC server that accepts a string and returns a compound sentiment analysis value via OSC
 
 ## Games
 
@@ -88,9 +109,4 @@
 
 ## Other Video Tutorials
 
-- [REX C100 PID Controller](https://youtu.be/tgVp4-Jlr8Q?si=RCWrXSr681_H7vNC) - A video describing modifications that can be made to a REX C100 PID controller
-- [Autodesk Fusion 360 Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv65VUZNfctWJuHtIvuLUmtE) - A playlist of my Fusion 360 tutorials
-- [Autodesk Eagle Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv4zWs14hAQxqpuK_5B-k7Uw)
-- [Processing Oldies but Goodies](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6RtPKM-xKdftWJW1cwj8oT) - Screen recordings of Processing lessons that I created long ago
-- [Quartz Composer Tutorials](https://www.youtube.com/playlist?list=PLNE1nfKgKSv6I09WU4FskH5G8ZaB54IN5) - A series of Quartz Composer tutorials for beginners
-- [p5js and Chataigne](https://youtu.be/UjUjzPPUXk0) - A video walkthrough of how Chataigne can be used with p5.js and WebSockets
+There are a ton of tutorials on my YouTube channel, which you can find here: https://www.youtube.com/robduarte
